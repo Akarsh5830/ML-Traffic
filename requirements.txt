@@ -1,0 +1,8 @@
+streamlit
+ultralytics
+opencv-python-headless
+torch
+torchvision
+Pillow
+numpy
+# Add specific versions if needed for stability, e.g., streamlit==1.30.0

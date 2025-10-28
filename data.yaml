@@ -1,0 +1,6 @@
+train: train/images
+val: valid/images
+nc: 7
+names: ['0', '1', '2', '3', '4', '5', '6']
+roboflow: {workspace: sample2-yj0ke, project: violation-l6kaz, version: 1, license: CC
+    BY 4.0, url: 'https://universe.roboflow.com/sample2-yj0ke/violation-l6kaz/dataset/1'}
