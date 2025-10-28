@@ -187,4 +187,4 @@ else:
 st.write("---")
 st.caption("Developed using YOLOv8 and Streamlit.")
 
-The provided search results contain a video that demonstrates how to integrate object detection and tracking with Streamlit, which is the exact technical hurdle you're solving in this script [Building a Real-Time Object Detection and Tracking App with YOLOv8 and Streamlit: Part 2](https://rs-punia.medium.com/building-a-real-time-object-detection-and-tracking-app-with-yolov8-and-streamlit-part-2-d1a273592e7e).
+
